@@ -69,9 +69,17 @@ Enable Pi Camera via raspi-config and position it for full-body capture.
 *   Gamification features for classroom learning
     
 
-🧑‍💻 Structuredance-recognition/├── new\_moves.py├── move\_train.py├── live\_dance.py├── model.h5├── data/└── README.md
+🧑‍💻 Structure
+dance-recognition/
+├── new_moves.py
+├── move_train.py
+├── live_dance.py
+├── model.h5
+├── data/
+└── README.md
 
-👤 AuthorDonovan ThomasComputer Science Student — University of California, Santa CruzEducational ML Project (Pose Recognition & Interactive Learning)
+👤 Author
+Donovan Thomas, Computer Science Student — University of California, Santa Cruz: Educational ML Project (Pose Recognition & Interactive Learning)
 
 📚 Acknowledgments
 
@@ -84,4 +92,14 @@ Enable Pi Camera via raspi-config and position it for full-body capture.
 *   UCSC Scharf Lab — Research inspiration
     
 
-🧩 Requirementstensorflow==2.14.0mediapipe==0.10.8opencv-python==4.10.0.84numpy==1.26.4pandas==2.2.2matplotlib==3.9.2scikit-learn==1.5.2jupyterlab==4.2.5tflite-runtime; platform\_machine=="armv7l"
+🧩 Requirements
+tensorflow==2.14.0
+mediapipe==0.10.8
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+scikit-learn==1.5.2
+jupyterlab==4.2.5
+tflite-runtime; platform_machine=="armv7l"
+
